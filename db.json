@@ -1,40 +1,46 @@
 {
 	"nodes": [
 		{
-			"id": "p1",
-			"labels": [
-				"Person"
-			],
-			"properties": {
-				"first_name": "Suresh",
-				"gender": "Male",
-				"second_name": "Sala",
-				"location": "Bangalore"
-			}
+			"first_name": "Suresh",
+			"second_name": "Sala",
+			"gender": "Male",
+			"dob": "24-01-1992",
+			"location": "Bangalore"
 		},
 		{
-			"id": "p2",
-			"labels": [
-				"Person"
-			],
-			"properties": {
-				"first_name": "Uma Sarada",
-				"gender": "Female",
-				"second_name": "Challa",
-				"location": "Bangalore"
-			}
+			"first_name": "Viswa Satish",
+			"second_name": "Sala",
+			"gender": "Male",
+			"dob": "27-04-1990",
+			"location": "Bangalore"
 		},
 		{
-			"id": "p3",
-			"labels": [
-				"Person"
-			],
-			"properties": {
-				"first_name": "Varsha Sri",
-				"gender": "Female",
-				"second_name": "Sala",
-				"location": "Bangalore"
-			}
+			"first_name": "Uma Sarada",
+			"second_name": "Challa",
+			"gender": "Female",
+			"dob": "25-05-1998",
+			"location": "Bangalore"
+		},
+		{
+			"first_name": "Sonia",
+			"second_name": "Posina",
+			"gender": "Female",
+			"dob": "30-01-1998",
+			"location": "Bangalore"
+		},
+		{
+			"first_name": "Gurumurthy",
+			"second_name": "Sala",
+			"gender": "Male",
+			"dob": "23-02-1963",
+			"location": "Kothalanka"
+		},
+		{
+			"first_name": "Vara Lakshmi",
+			"second_name": "Sala",
+			"gender": "Female",
+			"dob": "23-08-1973",
+			"location": "Kothalanka"
 		}
 	],
 	"relationships": [
@@ -64,3 +70,4 @@
 		}
 	]
 }
+
