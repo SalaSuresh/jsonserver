@@ -45,29 +45,64 @@
 	],
 	"relationships": [
 		{
-			"type": "MARRIED_TO",
-			"startNode": "p1",
-			"endNode": "p2",
-			"properties": {
-				"since": 2022
-			}
+			"from_name": "Suresh",
+			"to_name": "Viswa Satish",
+			"type": "BROTHER"
 		},
 		{
-			"type": "PARENT_OF",
-			"startNode": "p1",
-			"endNode": "p3",
-			"properties": {
-				"type": "Biological"
-			}
+			"from_name": "Viswa Satish",
+			"to_name": "Suresh",
+			"type": "BROTHER"
 		},
 		{
-			"type": "PARENT_OF",
-			"startNode": "p2",
-			"endNode": "p3",
-			"properties": {
-				"type": "Biological"
-			}
+			"from_name": "Suresh",
+			"to_name": "Gurumurthy",
+			"type": "SON_OF",
+			"status": "Family"
+		},
+		{
+			"from_name": "Viswa Satish",
+			"to_name": "Gurumurthy",
+			"type": "SON_OF",
+			"status": "Family"
+		},
+		{
+			"from_name": "Suresh",
+			"to_name": "Vara Lakshmi",
+			"type": "SON_OF",
+			"status": "Family"
+		},
+		{
+			"from_name": "Viswa Satish",
+			"to_name": "Vara Lakshmi",
+			"type": "SON_OF",
+			"status": "Family"
+		},
+		{
+			"from_name": "Uma Sarada",
+			"to_name": "Sonia",
+			"type": "CO-SISTER",
+			"status": "Family"
+		},
+		{
+			"from_name": "Uma Sarada",
+			"to_name": "Suresh",
+			"type": "MARRIED",
+			"status": "Family"
+		},
+		{
+			"from_name": "Sonia",
+			"to_name": "Viswa Satish",
+			"type": "MARRIED",
+			"status": "Family"
+		},
+		{
+			"from_name": "Vara Lakshmi",
+			"to_name": "Gurumurthy",
+			"type": "MARRIED",
+			"status": "Family"
 		}
 	]
 }
+
 
