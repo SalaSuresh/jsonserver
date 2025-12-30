@@ -6,106 +6,10 @@
 			"gender": "Male",
 			"dob": "24-01-1992",
 			"location": "Bangalore"
-		},
-		{
-			"first_name": "Viswa Satish",
-			"second_name": "Sala",
-			"gender": "Male",
-			"dob": "27-04-1990",
-			"location": "Bangalore"
-		},
-		{
-			"first_name": "Uma Sarada",
-			"second_name": "Challa",
-			"gender": "Female",
-			"dob": "25-05-1998",
-			"location": "Bangalore"
-		},
-		{
-			"first_name": "Sonia",
-			"second_name": "Posina",
-			"gender": "Female",
-			"dob": "30-01-1998",
-			"location": "Bangalore"
-		},
-		{
-			"first_name": "Gurumurthy",
-			"second_name": "Sala",
-			"gender": "Male",
-			"dob": "23-02-1963",
-			"location": "Kothalanka"
-		},
-		{
-			"first_name": "Vara Lakshmi",
-			"second_name": "Sala",
-			"gender": "Female",
-			"dob": "23-08-1973",
-			"location": "Kothalanka"
-		}
-	],
-	"relationships": [
-		{
-			"from_name": "Suresh",
-			"to_name": "Viswa Satish",
-			"type": "BROTHER",
-			"status": "Family"
-		},
-		{
-			"from_name": "Viswa Satish",
-			"to_name": "Suresh",
-			"type": "BROTHER",
-			"status": "Family"
-		},
-		{
-			"from_name": "Suresh",
-			"to_name": "Gurumurthy",
-			"type": "SON_OF",
-			"status": "Family"
-		},
-		{
-			"from_name": "Viswa Satish",
-			"to_name": "Gurumurthy",
-			"type": "SON_OF",
-			"status": "Family"
-		},
-		{
-			"from_name": "Suresh",
-			"to_name": "Vara Lakshmi",
-			"type": "SON_OF",
-			"status": "Family"
-		},
-		{
-			"from_name": "Viswa Satish",
-			"to_name": "Vara Lakshmi",
-			"type": "SON_OF",
-			"status": "Family"
-		},
-		{
-			"from_name": "Uma Sarada",
-			"to_name": "Sonia",
-			"type": "CO-SISTER",
-			"status": "Family"
-		},
-		{
-			"from_name": "Uma Sarada",
-			"to_name": "Suresh",
-			"type": "MARRIED",
-			"status": "Family"
-		},
-		{
-			"from_name": "Sonia",
-			"to_name": "Viswa Satish",
-			"type": "MARRIED",
-			"status": "Family"
-		},
-		{
-			"from_name": "Vara Lakshmi",
-			"to_name": "Gurumurthy",
-			"type": "MARRIED",
-			"status": "Family"
-		}
+		}	
 	]
 }
+
 
 
 
