@@ -48,11 +48,13 @@
 			"from_name": "Suresh",
 			"to_name": "Viswa Satish",
 			"type": "BROTHER"
+			"status": "Family"
 		},
 		{
 			"from_name": "Viswa Satish",
 			"to_name": "Suresh",
 			"type": "BROTHER"
+			"status": "Family"
 		},
 		{
 			"from_name": "Suresh",
@@ -104,5 +106,3 @@
 		}
 	]
 }
-
-
