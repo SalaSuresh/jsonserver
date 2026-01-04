@@ -155,6 +155,18 @@
       "to_name": "Vara Lakshmi",
       "type": "SON_OF",
       "status": "Family"
+    },
+    {
+      "from_name": "Viswa Satish",
+      "to_name": "Sonia",
+      "type": "MARRIED",
+      "status": "Family"
+    },
+    {
+      "from_name": "Sonia",
+      "to_name": "Viswa Satish",
+      "type": "MARRIED",
+      "status": "Family"
     }
   ]
 }
