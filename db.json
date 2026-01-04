@@ -167,6 +167,66 @@
       "to_name": "Viswa Satish",
       "type": "MARRIED",
       "status": "Family"
+    },
+    {
+      "from_name": "Sonia",
+      "to_name": "Uma Sarada",
+      "type": "CO-SISTER",
+      "status": "Family"
+    },
+    {
+      "from_name": "Uma Sarada",
+      "to_name": "Sonia",
+      "type": "CO-SISTER",
+      "status": "Family"
+    },
+    {
+      "from_name": "Naga Lingamurthy",
+      "to_name": "Satyaveni",
+      "type": "MARRIED",
+      "status": "Family"
+    },
+    {
+      "from_name": "Satyaveni",
+      "to_name": "Naga Lingamurthy",
+      "type": "MARRIED",
+      "status": "Family"
+    },
+    {
+      "from_name": "Gurumurthy",
+      "to_name": "Naga Lingamurthy",
+      "type": "BROTHER",
+      "status": "Family"
+    },
+    {
+      "from_name": "Naga Lingamurthy",
+      "to_name": "Gurumurthy",
+      "type": "BROTHER",
+      "status": "Family"
+    },
+    {
+      "from_name": "Naga Lingamurthy",
+      "to_name": "Ajay",
+      "type": "FATHER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Ajay",
+      "to_name": "Naga Lingamurthy",
+      "type": "SON_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Satyaveni",
+      "to_name": "Ajay",
+      "type": "MOTHER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Ajay",
+      "to_name": "Satyaveni",
+      "type": "SON_OF",
+      "status": "Family"
     }
   ]
 }
