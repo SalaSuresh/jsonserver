@@ -119,7 +119,18 @@
       "to_name": "Suresh",
       "type": "MARRIED",
       "status": "Family"
+    },
+    {
+      "from_name": "Gurumurthy",
+      "to_name": "Vara Lakshmi",
+      "type": "MARRIED",
+      "status": "Family"
+    },
+    {
+      "from_name": "Vara Lakshmi",
+      "to_name": "Gurumurthy",
+      "type": "MARRIED",
+      "status": "Family"
     }
   ]
 }
-
