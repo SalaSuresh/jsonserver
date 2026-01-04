@@ -169,18 +169,6 @@
       "status": "Family"
     },
     {
-      "from_name": "Sonia",
-      "to_name": "Uma Sarada",
-      "type": "CO-SISTER",
-      "status": "Family"
-    },
-    {
-      "from_name": "Uma Sarada",
-      "to_name": "Sonia",
-      "type": "CO-SISTER",
-      "status": "Family"
-    },
-    {
       "from_name": "Naga Lingamurthy",
       "to_name": "Satyaveni",
       "type": "MARRIED",
