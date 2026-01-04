@@ -72,93 +72,89 @@
     }
   ],
   "relationships": [
-    
-  {
-    "from_name": "Suresh",
-    "to_name": "Viswa Satish",
-    "type": "BROTHER",
-    "status": "Family"
-  },
-  {
-    "from_name": "Viswa Satish",
-    "to_name": "Suresh",
-    "type": "BROTHER",
-    "status": "Family"
-  },
-  {
-    "from_name": "Suresh",
-    "to_name": "Gurumurthy",
-    "type": "SON_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Gurumurthy",
-    "to_name": "Suresh",
-    "type": "FATHER_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Viswa Satish",
-    "to_name": "Gurumurthy",
-    "type": "SON_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Gurumurthy",
-    "to_name": "Viswa Satish",
-    "type": "FATHER_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Suresh",
-    "to_name": "Uma Sarada",
-    "type": "SON_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Uma Sarada",
-    "to_name": "Suresh",
-    "type": "MOTHER_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Viswa Satish",
-    "to_name": "Uma Sarada",
-    "type": "SON_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Uma Sarada",
-    "to_name": "Viswa Satish",
-    "type": "MOTHER_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Harika",
-    "to_name": "Gurumurthy",
-    "type": "DAUGHTER_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Harika",
-    "to_name": "Uma Sarada",
-    "type": "DAUGHTER_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Ajay",
-    "to_name": "Gurumurthy",
-    "type": "SON_OF",
-    "status": "Family"
-  },
-  {
-    "from_name": "Ajay",
-    "to_name": "Satyaveni",
-    "type": "SON_OF",
-    "status": "Family"
-  }
-
+    {
+      "from_name": "Suresh",
+      "to_name": "Viswa Satish",
+      "type": "BROTHER",
+      "status": "Family"
+    },
+    {
+      "from_name": "Viswa Satish",
+      "to_name": "Suresh",
+      "type": "BROTHER",
+      "status": "Family"
+    },
+    {
+      "from_name": "Suresh",
+      "to_name": "Gurumurthy",
+      "type": "SON_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Gurumurthy",
+      "to_name": "Suresh",
+      "type": "FATHER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Viswa Satish",
+      "to_name": "Gurumurthy",
+      "type": "SON_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Gurumurthy",
+      "to_name": "Viswa Satish",
+      "type": "FATHER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Suresh",
+      "to_name": "Uma Sarada",
+      "type": "SON_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Uma Sarada",
+      "to_name": "Suresh",
+      "type": "MOTHER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Viswa Satish",
+      "to_name": "Uma Sarada",
+      "type": "SON_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Uma Sarada",
+      "to_name": "Viswa Satish",
+      "type": "MOTHER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Harika",
+      "to_name": "Gurumurthy",
+      "type": "DAUGHTER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Harika",
+      "to_name": "Uma Sarada",
+      "type": "DAUGHTER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Ajay",
+      "to_name": "Gurumurthy",
+      "type": "SON_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Ajay",
+      "to_name": "Satyaveni",
+      "type": "SON_OF",
+      "status": "Family"
+    }
   ]
 }
-
-
