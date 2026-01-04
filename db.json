@@ -227,6 +227,30 @@
       "to_name": "Satyaveni",
       "type": "SON_OF",
       "status": "Family"
+    },
+    {
+      "from_name": "Naga Lingamurthy",
+      "to_name": "Harika",
+      "type": "FATHER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Harika",
+      "to_name": "Naga Lingamurthy",
+      "type": "DAUGHTER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Satyaveni",
+      "to_name": "Harika",
+      "type": "MOTHER_OF",
+      "status": "Family"
+    },
+    {
+      "from_name": "Harika",
+      "to_name": "Satyaveni",
+      "type": "DAUGHTER_OF",
+      "status": "Family"
     }
   ]
 }
