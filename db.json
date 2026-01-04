@@ -18,57 +18,57 @@
       "first_name": "Uma Sarada",
       "second_name": "Sala",
       "gender": "Female",
-      "dob": "18-03-1965",
+      "dob": "24-05-1998",
       "location": "Bangalore"
     },
     {
       "first_name": "Sonia",
       "second_name": "Sala",
       "gender": "Female",
-      "dob": "05-08-1986",
+      "dob": "30-01-1998",
       "location": "Bangalore"
     },
     {
       "first_name": "Gurumurthy",
       "second_name": "Sala",
       "gender": "Male",
-      "dob": "14-06-1988",
-      "location": "Bangalore"
+      "dob": "23-02-1963",
+      "location": "Kothalanka"
     },
     {
       "first_name": "Vara Lakshmi",
       "second_name": "Sala",
       "gender": "Female",
-      "dob": "09-09-1994",
-      "location": "Bangalore"
+      "dob": "01-01-1973",
+      "location": "Kothalanka"
     },
     {
       "first_name": "Naga Lingamurthy",
       "second_name": "Sala",
       "gender": "Male",
-      "dob": "11-11-1960",
-      "location": "Bangalore"
+      "dob": "01-01-1965",
+      "location": "Kothalanka"
     },
     {
       "first_name": "Satyaveni",
       "second_name": "Sala",
       "gender": "Female",
-      "dob": "22-02-1962",
-      "location": "Bangalore"
+      "dob": "01-01-1970",
+      "location": "Kothalanka"
     },
     {
       "first_name": "Harika",
       "second_name": "Sala",
       "gender": "Female",
       "dob": "02-05-1999",
-      "location": "Kothalanka"
+      "location": "Vizag"
     },
     {
       "first_name": "Ajay",
       "second_name": "Sala",
-      "gender": "Female",
+      "gender": "Male",
       "dob": "26-07-2001",
-      "location": "Kothalanka"
+      "location": "Bangalore"
     }
   ],
   "relationships": [
@@ -111,50 +111,15 @@
     {
       "from_name": "Suresh",
       "to_name": "Uma Sarada",
-      "type": "SON_OF",
+      "type": "MARRIED",
       "status": "Family"
     },
     {
       "from_name": "Uma Sarada",
       "to_name": "Suresh",
-      "type": "MOTHER_OF",
-      "status": "Family"
-    },
-    {
-      "from_name": "Viswa Satish",
-      "to_name": "Uma Sarada",
-      "type": "SON_OF",
-      "status": "Family"
-    },
-    {
-      "from_name": "Uma Sarada",
-      "to_name": "Viswa Satish",
-      "type": "MOTHER_OF",
-      "status": "Family"
-    },
-    {
-      "from_name": "Harika",
-      "to_name": "Gurumurthy",
-      "type": "DAUGHTER_OF",
-      "status": "Family"
-    },
-    {
-      "from_name": "Harika",
-      "to_name": "Uma Sarada",
-      "type": "DAUGHTER_OF",
-      "status": "Family"
-    },
-    {
-      "from_name": "Ajay",
-      "to_name": "Gurumurthy",
-      "type": "SON_OF",
-      "status": "Family"
-    },
-    {
-      "from_name": "Ajay",
-      "to_name": "Satyaveni",
-      "type": "SON_OF",
+      "type": "MARRIED",
       "status": "Family"
     }
   ]
 }
+
