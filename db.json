@@ -251,6 +251,18 @@
       "to_name": "Satyaveni",
       "type": "DAUGHTER_OF",
       "status": "Family"
+    },
+    {
+      "from_name": "Harika",
+      "to_name": "Ajay",
+      "type": "SISTER",
+      "status": "Family"
+    },
+    {
+      "from_name": "Ajay",
+      "to_name": "Harika",
+      "type": "BROTHER",
+      "status": "Family"
     }
   ]
 }
